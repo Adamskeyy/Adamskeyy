@@ -4,7 +4,7 @@ In October 2020 I finished "Python from scratch" bootcamp. After its suspension 
 
 ### My LinkedIn profile:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" fill="#0000FF" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adam Antkowiak | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
 
