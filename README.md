@@ -24,11 +24,4 @@ In October 2020 I finished "Python from scratch" bootcamp. After its suspension 
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Adamskeyy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 [linkedin]: https://www.linkedin.com/in/adam-antkowiak-83bb4811a/
