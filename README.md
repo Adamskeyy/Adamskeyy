@@ -1,6 +1,6 @@
 ## Hello there!
 
-In October 2020 I finished "Python from scratch" bootcamp. After its suspension in March 2020 I've decided that frontend development is the field I like the most. Since then I devoted myself to learning all the essential technologies with a 2 month break for finishing bootcamp. I managed to finish a few minor projects accessible through my GitHub profile. Right now I'm looking for any opportunity to grow as web developer.
+In October 2020 I finished "Python from scratch" bootcamp. After its suspension in March 2020 I've decided that frontend development is the field I like the most. Since then I devoted myself to learning all the essential technologies with a 2 month break for finishing bootcamp. I managed to finish a few minor projects accessible through my GitHub profile. Currently I'm looking for any opportunity to grow as web developer.
 
 ### My LinkedIn profile:
 
